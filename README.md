@@ -1,54 +1,54 @@
-# decrypt-md5-hash
+Here's a rewritten version of your text:
 
-The MD5 message digest algorithm is a cryptographically broken but still widely used hash function producing a 128-bit hash value. Although MD5 was initially designed to be used as a cryptographic hash function, it has been found to suffer from extensive vulnerabilities.
+---
+
+The MD5 (Message Digest Algorithm 5) is a widely used cryptographic hash function that generates a 128-bit hash value. While it was originally intended for cryptographic use, MD5 is now considered insecure due to numerous vulnerabilities discovered over time.
 
 ## About
-A simple python script that goes through a wordlist to decrypt an MD5 hash.
+This is a simple Python script designed to decrypt MD5 hashes by using a wordlist for brute-force attacks.
 
 ## USAGE:
-	- python decryptmd5.py md5hash wordlistpath
+To run the script, use the following command:
 
-example:
+```
+python decryptmd5.py <md5hash> <wordlistpath>
+```
 
-- Python decryptmd5.py ab334feeb31c05124cb73fa12571c2f6 /home/worldist.txt
+**Example:**
 
-- Python decryptmd5.py ab334feeb31c05124cb73fa12571c2f6 D:\\myfiles\wordlist.txt
+```
+python decryptmd5.py ab334feeb31c05124cb73fa12571c2f6 /home/wordlist.txt
+```
 
-Try different wordlists
-	 
+```
+python decryptmd5.py ab334feeb31c05124cb73fa12571c2f6 D:\\myfiles\\wordlist.txt
+```
+
+Feel free to experiment with different wordlists to improve success.
+
 ## Disclaimer:
-##      This script was purely made for educational purpose only.
-
+This script is created solely for educational purposes.
 
 ## Preview
 
-**(https://github.com/d-c4ptain/decrypt-md5-hash)**
-
+**[GitHub Repository](https://github.com/d-c4ptain/decrypt-md5-hash)**
 
 ## Download and Installation
 
-To install md5 hash decrypter, choose one of the following options:
-* Clone the repo: `git clone https://github.com/d-c4ptain/decrypt-md5-hash)`
-* [Fork, Clone, or Download on GitHub](https://github.com/d-c4ptain/decrypt-md5-hash)
-
+To install the MD5 hash decrypter, you can choose one of these options:
+* Clone the repository: `git clone https://github.com/d-c4ptain/decrypt-md5-hash`
+* [Fork, Clone, or Download on GitHub](https://github.com/theHackerGeek/CHAKRA/)
 
 ## Bugs and Issues
 
-Have a bug or an issue with this md5 hash decrypter?
-[Open a new issue](https://github.com/d-c4ptain/decrypt-md5-hash/issues) here on GitHub 
+If you encounter any bugs or issues with the MD5 hash decrypter, you can:
+* [Open an issue on GitHub](https://github.com/theHackerGeek/CHAKRA/issues)
+* [Report a new issue here on GitHub](https://github.com/theHackerGeek/CHAKRA/issues/new)
 
-## D_C4PTAIN
+## THE_HACKER_GEEK
 
-This simple md5 hash decrypter was created and is maintained by **[d-c4ptain](https://d-c4ptain.github.io/)**
-* https://d-c4ptain.github.io/
-* https://twitter.com/d_c4ptain
-* https://d-captain.medium.com
-* https://github.com/d-c4ptain
-* https://www.facebook.com/dee.captainkenya
-* https://www.youtube.com/channel/UCPPxJ2XmVOqfyvb39x_srKg
-* https://www.linkedin.com/in/dennis-masila/
+* [Fork, Clone, or Download on GitHub](https://github.com/theHackerGeek/)
 
+---
 
-## Copyright and License
-
-Copyright 2013-2021 under the [MIT] (https://github.com/d-c4ptain/decrypt-md5-hash/blob/master/LICENSE) license.
+Let me know if you'd like further adjustments!
