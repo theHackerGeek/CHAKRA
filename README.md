@@ -36,7 +36,7 @@ This script is created solely for educational purposes.
 ## Download and Installation
 
 To install the MD5 hash decrypter, you can choose one of these options:
-* Clone the repository: `git clone https://github.com/d-c4ptain/decrypt-md5-hash`
+* Clone the repository: `git clone https://github.com/theHackerGeek/CHAKRA/`
 * [Fork, Clone, or Download on GitHub](https://github.com/theHackerGeek/CHAKRA/)
 
 ## Bugs and Issues
