@@ -31,7 +31,7 @@ This script is created solely for educational purposes.
 
 ## Preview
 
-**[GitHub Repository](https://github.com/d-c4ptain/decrypt-md5-hash)**
+**[GitHub Repository](https://github.com/theHackerGeek/CHAKRA/)**
 
 ## Download and Installation
 
